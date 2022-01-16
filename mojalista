@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:0 tvg-country="SE" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="Sport",ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1,SW: SVT1
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/1608
+#EXTINF:-1,SW: SVT2
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/12011
+#EXTINF:-1,NO: NRK1
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/6989
+#EXTINF:-1,NO: NRK2
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/6990
